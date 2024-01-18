@@ -309,7 +309,7 @@ nav ul li a:hover {
 .game-center {
     position: relative;
     height: 100%;
-    width: 150%;
+    width: 135%;
     overflow: hidden;
     display: grid;
     grid-column: 1/span 8;
